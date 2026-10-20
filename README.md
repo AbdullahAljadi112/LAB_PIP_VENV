@@ -32,5 +32,8 @@ City: Chicago
 
 5. Generate a requirements.txt file using pip (use pip freeze)
 
-### Link to Faker Package:
+### Link to Faker Package Official Docs:
 https://faker.readthedocs.io/
+
+### Link to Faker on PyPI:
+https://pypi.org/project/Faker/
